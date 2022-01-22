@@ -5,9 +5,9 @@ If not: please go on, there's nothing to see here.
 
 This table shows the amount of free space you receive when using the action with the various options.
 
-OS | Android SDKs removed | .NET SDKs removed | Haskell removed | GB freed | GB free
----|:--------------------:|:-----------------:|:---------------:|---------:|-------:
-ubuntu-18.04 |  |  |  | 7 | 30
+Android SDKs removed | .NET SDKs removed | Haskell removed | GB freed
+--------------------:|:-----------------:|:---------------:|---------:
+ubuntu-18.04 |  |  |  | 0 | 30
 ubuntu-18.04 |  |  | true | 9 | 32
 ubuntu-18.04 |  | true |  | 31 | 54
 ubuntu-18.04 |  | true | true | 33 | 56
