@@ -6,7 +6,7 @@ If not: please go on, there's nothing to see here.
 This table shows the amount of free space you receive when using the action with the various options.
 
 Android SDKs removed | .NET SDKs removed | Haskell removed | GB freed
---------------------:|:-----------------:|:---------------:|---------:
+-------------------- | ----------------- | --------------- |---------
                      |                   |                 | 0
                      |                   | true            | Negligible
                      | true              |                 | 4
