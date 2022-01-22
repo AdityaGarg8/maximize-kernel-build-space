@@ -7,19 +7,11 @@ This table shows the amount of free space you receive when using the action with
 
 Android SDKs removed | .NET SDKs removed | Haskell removed | GB freed
 --------------------:|:-----------------:|:---------------:|---------:
-ubuntu-18.04 |  |  |  | 0 | 30
-ubuntu-18.04 |  |  | true | 9 | 32
-ubuntu-18.04 |  | true |  | 31 | 54
-ubuntu-18.04 |  | true | true | 33 | 56
-ubuntu-18.04 | true |  |  | 17 | 40
-ubuntu-18.04 | true |  | true | 19 | 42
-ubuntu-18.04 | true | true |  | 41 | 64
-ubuntu-18.04 | true | true | true | 42 | 65
-ubuntu-20.04 |  |  |  | 7 | 26
-ubuntu-20.04 |  |  | true | 9 | 28
-ubuntu-20.04 |  | true |  | 30 | 49
-ubuntu-20.04 |  | true | true | 32 | 51
-ubuntu-20.04 | true |  |  | 18 | 37
-ubuntu-20.04 | true |  | true | 20 | 39
-ubuntu-20.04 | true | true |  | 41 | 60
-ubuntu-20.04 | true | true | true | 43 | 62
+  |  |  | 0
+  |  | true | Negligible
+  | true |  | 4
+  | true | true | almost 4
+ true |  |  | 15
+ true |  | true | almost 15
+ true | true |  | 19
+ true | true | true | almost 19
