@@ -6,5 +6,7 @@ If not: please go on, there's nothing to see here.
 This list shows the amount of free space you receive when using the action with the various options.
 
 **Android SDKs removed** :- 15 GB
+
 **.NET SDKs removed** :- 4 GB
+
 **Haskell removed** :- Few MBs
