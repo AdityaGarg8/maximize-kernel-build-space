@@ -83,7 +83,7 @@ runs:
             sudo apt-get clean
           fi
           if [[ ${{ inputs.remove-docker-cached-images }} == 'true' ]]; then
-            sudo docker image purge --all --force
+            sudo docker image prune --all --force
           fi
           echo "... done"
 
